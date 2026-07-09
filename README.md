@@ -61,7 +61,24 @@ lo que pasó durante la ejecución.
 El programa no se detiene en ningún punto: todos los errores se
 capturan, quedan en el log, y sigue corriendo hasta imprimir el
 resumen final.
+## Repositorio
+
+Enlace del repositorio: https://github.com/grupo-213023-6-unad/software-fj-fase4
+
+## Colaboradores
+
+- Jefferson David (implementación y documentación del sistema)
+
+## Conclusiones técnicas
+
+El desarrollo de este sistema permitió aplicar los principios de programación
+orientada a objetos (abstracción, herencia, polimorfismo y encapsulación) en un
+caso de uso realista. El manejo estructurado de excepciones garantizó que el
+programa se mantuviera estable incluso ante datos inválidos o operaciones no
+permitidas, y el registro en archivo de logs facilitó el seguimiento de errores
+sin exponer información técnica al usuario final.
 
 ## Autoría
 
 Trabajo colaborativo — Curso Programación 213023, UNAD.
+
